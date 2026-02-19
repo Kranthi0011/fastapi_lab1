@@ -113,4 +113,4 @@ Example Response:
 ## Author
 Kranthi Kiran
 Northeastern University
-Course: MLOps (IE 6400)
+Course: MLOps (IE 7374)
